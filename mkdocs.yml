@@ -1,0 +1,10 @@
+site_name: Deisling
+site_url: https://deisling.github.io/mcdocs/
+theme:
+  name: material
+site_author: Sergei Deisling
+copyright: Sergei Deisling, 2024
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
