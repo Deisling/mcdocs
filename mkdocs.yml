@@ -2,15 +2,20 @@ site_name: Deisling
 site_url: https://deisling.github.io/mcdocs/
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+
   palette: 
     # Palette toggle for light mode
     - scheme: default
       toggle:
         icon: material/brightness-7 
 
-
         name: Switch to dark mode
-
     # Palette toggle for dark mode
     - scheme: slate
       toggle:
