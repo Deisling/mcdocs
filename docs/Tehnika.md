@@ -23,7 +23,7 @@
 
 Вывод: Бумеранг не должен размениваться на дальнем рубеже. Его ценность появляется, когда он переживает фазу подхода и помогает пехоте входить в 500 м.
 
-Подробнее: [vehicle_suspekt_report_ru.md](/Users/sergei.deisling/Tasks/debug/sg_replay_analysis/vehicle_suspekt_report_ru.md).
+
 
 ### Танки Т-80
 
