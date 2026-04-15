@@ -21,8 +21,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode  
-site_author: Sergei Deisling
-copyright: Sergei Deisling, 2024
+site_author: UNS
+copyright: UNS, 2026
 markdown_extensions:
   - admonition
   - pymdownx.details
